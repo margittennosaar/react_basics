@@ -8,24 +8,15 @@ Each exercise in this repository consists of a task and its corresponding soluti
 
 ## Exercises
 
-### [Exercise 1](./exercise_1.md)
+[Exercise 1](./exercise_1.md)
 
 Create a basic React components and use it in the JSX code of another component.
 
-### [Exercise 2](./exercise_2.md)
+[Exercise 2](./exercise_2.md)
 
 Create a React component to display the name and title of a user.
 
-... will be updated soon
-
-## Getting Started
-
-To get started with the exercises, clone this repository to your local machine:
-
-```bash
-git clone https://github.com/your-username/react-basic-exercises.git
-cd react-basic-exercises
-```
+... more exercises will be added soon
 
 ## CodeSandbox Links
 
