@@ -8,13 +8,9 @@ Each exercise in this repository consists of a task and its corresponding soluti
 
 ## Exercises
 
-[Exercise 1](./exercise_1.md)
-
-Create a basic React components and use it in the JSX code of another component.
-
-[Exercise 2](./exercise_2.md)
-
-Create a React component to display the name and title of a user.
+- [Exercise 1](./exercise_1.md) Building & Using a Components
+- [Exercise 2](./exercise_2.md) Outputting Dynamic Content
+- [Exercise 3](./exercise_3.md) Working with Props
 
 ... more exercises will be added soon
 
