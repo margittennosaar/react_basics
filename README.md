@@ -12,6 +12,7 @@ Each exercise in this repository consists of a task and its corresponding soluti
 - [Exercise 2](./exercise_2.md) Outputting Dynamic Content
 - [Exercise 3](./exercise_3.md) Working with Props
 - [Exercise 4](./exercise_4.md) Component Composition
+- [Exercise 4](./exercise_5.md) Event handlers
 
 ... more exercises will be added soon
 
