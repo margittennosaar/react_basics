@@ -12,7 +12,9 @@ Each exercise in this repository consists of a task and its corresponding soluti
 - [Exercise 2](./exercise_2.md) Outputting Dynamic Content
 - [Exercise 3](./exercise_3.md) Working with Props
 - [Exercise 4](./exercise_4.md) Component Composition
-- [Exercise 4](./exercise_5.md) Event handlers
+- [Exercise 5](./exercise_5.md) Event handlers
+- [Exercise 6](./exercise_6.md) State and useState in React
+- [Exercise 7](./exercise_7.md) Data Passing with User Input
 
 ... more exercises will be added soon
 
