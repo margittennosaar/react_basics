@@ -17,7 +17,7 @@ Each exercise in this repository consists of a task and its corresponding soluti
 - [Exercise 7](./exercise_7.md) Data Passing with User Input
 - [Exercise 8](./exercise_8.md) Forms, controlled components and conditional rendering
 - [Exercise 9](./exercise_9.md) Conditional rendering and useRef usage
-- WIP List and keys
+- [Exercise 10](./exercise_10.md) List and keys
 - WIP useEffect
 
 ## CodeSandbox Links
